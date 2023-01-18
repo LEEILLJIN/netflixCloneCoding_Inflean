@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/netflixCloneCoding_Inflean/static/css/main.89bfe2ac.css",
+    "main.js": "/netflixCloneCoding_Inflean/static/js/main.e52b6139.js",
+    "static/js/787.20e5b628.chunk.js": "/netflixCloneCoding_Inflean/static/js/787.20e5b628.chunk.js",
+    "index.html": "/netflixCloneCoding_Inflean/index.html",
+    "main.89bfe2ac.css.map": "/netflixCloneCoding_Inflean/static/css/main.89bfe2ac.css.map",
+    "main.e52b6139.js.map": "/netflixCloneCoding_Inflean/static/js/main.e52b6139.js.map",
+    "787.20e5b628.chunk.js.map": "/netflixCloneCoding_Inflean/static/js/787.20e5b628.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89bfe2ac.css",
+    "static/js/main.e52b6139.js"
+  ]
+}
